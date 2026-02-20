@@ -27,12 +27,6 @@ I'm a passionate software developer currently studying **Engineering (English)**
 
 ---
 
-## 📊 GitHub Stats
-![Sezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 📫 How to reach me:
 - **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](www.linkedin.com/in/sezer-sevinç-147a9328a)
 - **Email:** sezersvnc67@gmail.com
