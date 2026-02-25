@@ -28,7 +28,7 @@ I'm a passionate software developer currently studying **Engineering (English)**
 ---
 
 ## 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](www.linkedin.com/in/sezer-sevinç-147a9328a)
+- **LinkedIn:** (www.linkedin.com/in/sezer-sevinç-147a9328a)
 - **Email:** sezer.svnc67@gmail.com
 
 ---
